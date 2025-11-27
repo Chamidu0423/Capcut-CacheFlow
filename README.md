@@ -4,7 +4,7 @@
 
 ## 🌟 Overview
 
-**CachesRefiner (CapCut Safe Pro)** is a lightweight, modern desktop tool designed to help you manage and protect your original CapCut files safely without modifying or replacing the CapCut app. Unlike modded or cracked CapCut versions, **CachesRefiner** lets you continue using the **official CapCut** app securely, ensuring your privacy and protecting your system from potential viruses or malware.
+**CapCut CacheFlow** is a lightweight, modern desktop tool designed to help you manage and protect your original CapCut files safely without modifying or replacing the CapCut app. Unlike modded or cracked CapCut versions, **CapCut CacheFlow** lets you continue using the **official CapCut** app securely, ensuring your privacy and protecting your system from potential viruses or malware.
 
 > ⚠️ **Note:** This is *not* a cache cleaning app or a modded version of CapCut. It is built to work alongside the original CapCut app for safer project handling.
 
@@ -15,9 +15,9 @@
 * 🧩 **Safe Integration:** Works directly with the original CapCut app no need for risky mods.
 * 🔒 **Privacy First:** Avoids privacy violations common in modded apps.
 * 🪶 **Lightweight & Fast:** Optimized for speed and smooth operation.
-* 💾 **Smart File Management:** Handles and organizes CapCut-related files securely.
+* 💾 **Smart File Management:** Handles and organizes CapCut related files securely.
 * 🎬 **Video Library Access:** Manage, preview, and interact with your video files effortlessly.
-* 📘 **Built-in Guide Section:** Step-by-step guidance for all users.
+* 📘 **Built in Guide Section:** Step-by-step guidance for all users.
 * 🧑‍💻 **Developer & About Sections:** Transparency about how the app works.
 
 ---
@@ -26,7 +26,7 @@
 
 ### 🔗 Download
 
-➡️ [**Get the Latest Version Here**](https://github.com/Chamidu0423/CapCut-Safe-Pro/releases)
+➡️ [**Get the Latest Version Here**](https://github.com/Chamidu0423/Capcut-CacheFlow/releases)
 
 ### 💻 System Requirements
 
@@ -36,16 +36,16 @@
 
 ### ⚙️ Installation
 
-1. Download the `.exe` file from the [Releases](https://github.com/Chamidu0423/CapCut-Safe-Pro/releases) page.
-2. Run the installer and follow on-screen instructions.
-3. Open **CapCut Safe Pro** after installation.
+1. Download the `.exe` file from the [Releases](https://github.com/Chamidu0423/Capcut-CacheFlow/releases) page.
+2. Run the installer and follow on screen instructions.
+3. Open **CapCut CacheFlow** after installation.
 4. Ensure you already have the **official CapCut** installed this app complements it.
 
 ---
 
 ## 🎯 Usage Guide
 
-After launching **CapCut Safe Pro**, you’ll find several sections:
+After launching **CapCut CacheFlow**, you’ll find several sections:
 
 ### 🏠 Home
 
@@ -77,9 +77,9 @@ Customize preferences for storage, interface, and safety.
 
 If you encounter a bug or issue:
 
-* Open an issue in the [Issues](https://github.com/Chamidu0423/CapCut-Safe-Pro/issues) section.
+* Open an issue in the [Issues](https://github.com/Chamidu0423/Capcut-CacheFlow/issues/new) section.
 * Include detailed steps to reproduce the problem.
 
 ---
 
-**CapCut Safe Pro** | Keeping your CapCut projects safe, private, and secure 🔐
+**CapCut CacheFlow** | Keeping your CapCut projects safe, private, and secure 🔐
