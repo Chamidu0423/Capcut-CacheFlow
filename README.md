@@ -73,44 +73,12 @@ Customize preferences for storage, interface, and safety.
 
 ---
 
-## 🛠️ Development
-
-### 🔧 Prerequisites
-
-* Node.js 18+
-* npm or yarn package manager
-
-### 🏗️ Build Instructions
-
-```bash
-git clone https://github.com/Chamidu0423/CapCut-Safe-Pro.git
-cd CapCut-Safe-Pro
-npm install
-npm run build
-```
-
-The build output will be available in the `dist` folder.
-
-
-## 🤝 Contributing
-
-I am welcome contributions! Please follow these steps to contribute:
-
-1.  **Discuss Your Idea:** Before you start, please [**open an issue** <img src="https://i.ibb.co/DHmn95bH/unnamed-removebg-preview-2.png" height="20px">](https://github.com/merdiai/merdiai/issues/new/choose) to discuss the changes you wish to make.
-2.  **Fork the Repository:** Once your idea is approved or discussed, [**fork the repository** <img src="https://i.ibb.co/PvFNwPLg/unnamed-removebg-preview.png" height="20px">](https://github.com/merdiai/merdiai/fork) to your own GitHub account.
-
 ### 🐛 Reporting Issues
 
 If you encounter a bug or issue:
 
 * Open an issue in the [Issues](https://github.com/Chamidu0423/CapCut-Safe-Pro/issues) section.
 * Include detailed steps to reproduce the problem.
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
