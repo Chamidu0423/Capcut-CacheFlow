@@ -1,8 +1,8 @@
 {
-  "id": "promo_003",
-  "title": "Unlock New AI Features!",
-  "message": "අලුත්ම AI Enhancement feature එක දැන් ඇවිත් තියෙන්නේ. මේක Unlock කරගන්න අපේ YouTube Channel එක ඔයාගේ යාලුවෝ 3 දෙනෙක්ට යවලා, ඒගොල්ලො Subscribe කරපු Screenshots 3ක් මට එවන්න.",
-  "actionText": "Send Screenshots",
-  "actionUrl": "https://t.me/YourTelegramUsername",
+  "id": "promo_004",
+  "title": "Version 2.1.0 Is Now Available",
+  "message": "We are pleased to announce the release of version 2.1.0. This update brings performance improvements, new AI capabilities, and bug fixes. Please update your app to enjoy the latest features.",
+  "actionText": "Update Now",
+  "actionUrl": "https://github.com/Chamidu0423/Capcut-CacheFlow/releases/tag/v2.1.0",
   "date": "2026-05-29"
 }
